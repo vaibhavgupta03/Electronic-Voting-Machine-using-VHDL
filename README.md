@@ -181,6 +181,3 @@ Roll No: 25583009
 
 ---
 
-## 📄 License
-
-This project is for academic and learning purposes.
